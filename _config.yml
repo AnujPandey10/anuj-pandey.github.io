@@ -1,0 +1,32 @@
+title: "Anuj Pandey"
+email: anujpandey@email.com
+description: >
+  Data Scientist and AI Engineer working at the intersection of
+  machine learning, bioprocessing, and pharmaceutical manufacturing.
+
+baseurl: ""
+url: "https://anuj-pandey.github.io"
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: "Anuj Pandey"
+  bio: "Data Science • AI • Bioprocessing • Pharma"
+  links:
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/anuj-pandey9/"
+    - label: "GitHub"
+      url: "https://github.com/anuj-pandey"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
