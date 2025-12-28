@@ -11,3 +11,10 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - contact.md
+
