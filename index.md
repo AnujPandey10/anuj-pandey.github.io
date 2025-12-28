@@ -1,18 +1,13 @@
 ---
-layout: single
-title: "Hi, I’m Anuj Pandey"
-author_profile: true
+layout: home
+title: Anuj Pandey
 ---
 
-I work at the intersection of **Data Science, Artificial Intelligence, and Pharmaceutical Manufacturing**.
+I work at the intersection of **Data Science, AI, and Pharmaceutical Manufacturing**.
 
-My work focuses on applying **statistics, machine learning, and domain knowledge** to solve real-world problems in:
-- Bioprocess optimization
-- Insulin & peptide manufacturing
-- Quality by Design (QbD)
-- AI-assisted decision-making in pharma
+My focus is on applying **statistics, machine learning, and process understanding** to real-world bioprocess and insulin manufacturing problems.
 
-This site is a space where I:
-- Share my projects and research work
-- Write short professional notes
-- Document learnings from applied AI in industry
+This site is where I share:
+- Applied projects from industry
+- Technical notes and learnings
+- Practical perspectives on AI in regulated environments
