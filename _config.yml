@@ -21,8 +21,8 @@ author_details:
   bio: "Data Scientist at Wockhardt Ltd. | IIT Kharagpur MTech | Computational Biology, AI & ML for Pharmaceutical R&D"
 
 # Theme and Appearance
-#theme: minima
-theme: jekyll-theme-minimal
+theme: minima
+#theme: jekyll-theme-minimal
 minima:
   # Keep Minima neutral; dark/light is handled via our CSS vars + `data-theme`.
   skin: classic
