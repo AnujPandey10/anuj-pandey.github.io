@@ -725,6 +725,49 @@ pre {
   border-color: var(--border-color) !important;
 }
 
+/* Photography Gallery Styles */
+.photo-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px 0;
+}
+
+.photo-item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background: var(--card-bg);
+}
+
+.photo-item:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-hover);
+}
+
+.photo-item img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.5s ease;
+}
+
+.photo-item:hover img {
+  transform: scale(1.05);
+}
+
+.photo-item .caption {
+  padding: 15px;
+  background: var(--card-bg);
+  color: var(--text-color);
+  font-size: 0.95em;
+  font-weight: 500;
+  border-top: 1px solid var(--border-color);
+}
+
 /* Ensure button is visible on mobile */
 @media (max-width: 768px) {
   .theme-toggle {
