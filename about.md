@@ -41,65 +41,9 @@ I firmly believe that the most powerful data science solutions emerge when we:
 
 ## 💡 What I Do
 
-<div class="skills-grid">
+<p>I specialize in bridging the gap between advanced data science and pharmaceutical manufacturing. My work encompasses process optimization through Design of Experiments (DOE), building predictive models for quality control, and developing AI-powered knowledge management systems.</p>
 
-<div class="card">
-
-<h3>📊 Process Optimization</h3>
-
-<p>I design and analyze experiments (DOE) to optimize manufacturing processes, focusing on:</p>
-<ul>
-<li>Improving product yield and quality</li>
-<li>Reducing process variability</li>
-<li>Understanding critical process parameters</li>
-<li>Developing robust operating spaces</li>
-</ul>
-
-</div>
-
-<div class="card">
-
-<h3>🤖 Predictive Modeling</h3>
-
-<p>I build machine learning models that provide actionable insights:</p>
-<ul>
-<li>Quality prediction and early warning systems</li>
-<li>Process monitoring and anomaly detection</li>
-<li>PK/PD outcome prediction</li>
-<li>Equipment failure prediction</li>
-</ul>
-
-</div>
-
-<div class="card">
-
-<h3>📚 Knowledge Management</h3>
-
-<p>I develop AI-powered systems for manufacturing knowledge:</p>
-<ul>
-<li>RAG-based SOP query systems</li>
-<li>Manufacturing knowledge bases</li>
-<li>Automated documentation analysis</li>
-<li>Decision support tools</li>
-</ul>
-
-</div>
-
-<div class="card">
-
-<h3>📈 Data Strategy</h3>
-
-<p>I help organizations make better use of their data:</p>
-<ul>
-<li>Data infrastructure design</li>
-<li>Analytics capability building</li>
-<li>Team training and mentoring</li>
-<li>Best practices implementation</li>
-</ul>
-
-</div>
-
-</div>
+<p>For a detailed breakdown of my technical competencies and domain expertise, please explore my <a href="/skills/">Skills & Expertise page</a>.</p>
 
 ## 🌟 What Makes My Approach Different
 
@@ -143,30 +87,9 @@ I firmly believe that the most powerful data science solutions emerge when we:
 
 <p>My journey into data science started with a strong <strong>engineering foundation</strong> and evolved into applying <strong>AI and computational biology</strong> to solve real pharmaceutical challenges.</p>
 
-<p><strong>Academic Foundation:</strong></p>
-<ul>
-<li><strong>MTech from IIT Kharagpur</strong> (2022-2024) - Advanced training in data science and machine learning</li>
-<li><strong>BTech from SVP University</strong> (2018-2022) - Engineering fundamentals with 8.24 CGPA</li>
-<li>Active in NSS and NCC - Leadership and social service (3 years each)</li>
-</ul>
+<p>Starting with a BTech in Engineering and evolving through my MTech at IIT Kharagpur, I have transitioned from software development to leading data science initiatives in pharmaceutical R&D.</p>
 
-<p><strong>Professional Evolution:</strong></p>
-<ul>
-<li>Started with <strong>back-end development</strong> internship at Wesoftek Solutions</li>
-<li>Transitioned to <strong>Data Science at Wockhardt Ltd.</strong> (Nov 2024 - Present)</li>
-<li>Leading initiatives in <strong>AI-powered solutions</strong> for pharmaceutical R&D</li>
-<li>Applying <strong>computational biology</strong> to biosimilar development</li>
-<li>Building <strong>LLM-based systems</strong> for knowledge management</li>
-</ul>
-
-<p><strong>Continuous Learning:</strong></p>
-<ul>
-<li>Recently completed intensive <strong>CBT Course Series at IIT Delhi</strong> (2025)</li>
-<li>Certified in <strong>Machine Learning In Production</strong> (DeepLearning.AI, Apr 2025)</li>
-<li><strong>Google Data Analytics</strong> certified (Dec 2024)</li>
-<li>Active learner in biopharma digital transformation</li>
-<li>Following latest developments in AI, ML, and computational biology</li>
-</ul>
+<p>To see my full professional history, education details, and certifications, please visit my <a href="/experience/">Experience page</a>.</p>
 
 ## 💭 My Perspective on AI in Pharma
 

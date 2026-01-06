@@ -179,20 +179,6 @@ SQL, Python (Programming Language), Data Analysis, Machine Learning</p>
 
 </div>
 
-<div class="card">
-
-<h3>Technical Skills</h3>
-
-<ul>
-<li><strong>Languages:</strong> Python, R, SQL, C#, ASP.NET</li>
-<li><strong>ML/AI:</strong> Large Language Models, Deep Learning, Neural Networks</li>
-<li><strong>Tools:</strong> JMP, SIMCA, Visual Studio, ML Deployment platforms</li>
-<li><strong>Domains:</strong> Computational Biology, Molecular Docking, Process Optimization</li>
-<li><strong>Methods:</strong> Design of Experiments (DOE), Statistical Analysis, MLOps</li>
-</ul>
-
-</div>
-
 </div>
 
 ---
